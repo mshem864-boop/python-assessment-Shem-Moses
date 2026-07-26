@@ -1,0 +1,71 @@
+"""
+task3_data_types.py
+
+Name: Shem Moses
+Registration No: T006/303998/2024
+Institution: The Cooperative University of Kenya (CUK)
+
+Task 3: Python Data Types
+
+Demonstrates int, float, bool, str, list, tuple, set, dict, and
+type casting between int/float/str.
+"""
+
+# a. Integer
+age = 21
+print("a. Integer value:", age, "| type:", type(age))
+
+# b. Float and arithmetic
+price = 19.99
+tax = price * 0.16
+print("b. Float value:", price, "| price + tax =", round(price + tax, 2))
+
+# c. Boolean in a conditional expression
+is_student = True
+if is_student:
+    print("c. Boolean check: person is a student")
+else:
+    print("c. Boolean check: person is not a student")
+
+# d. String: concatenation, slicing, len()
+first_name = "Shem"
+last_name = "Moses"
+full_name = first_name + " " + last_name          # concatenation
+print("d. Full name:", full_name)
+print("   First 4 characters (slicing):", full_name[:4])
+print("   Length of full name:", len(full_name))
+
+# e. List: append, remove, indexing
+fruits = ["mango", "banana", "apple", "orange", "grapes"]
+fruits.append("pineapple")
+fruits.remove("banana")
+print("e. Fruits list after append/remove:", fruits)
+print("   Item at index 0:", fruits[0])
+
+# f. Tuple: immutability
+coordinates = (1, 2, 3)
+try:
+    coordinates[0] = 99          # this will raise a TypeError
+except TypeError as error:
+    print("f. Tuple is immutable, error caught:", error)
+
+# g. Set: duplicates are automatically removed
+numbers_with_duplicates = {1, 2, 2, 3, 3, 3, 4}
+print("g. Set after removing duplicates:", numbers_with_duplicates)
+
+# h. Dictionary: access, add, delete a key
+student = {"name": "Shem", "age": 21, "course": "CS"}
+print("h. Access 'name':", student["name"])
+student["year"] = 3              # add a new key
+print("   After adding 'year':", student)
+del student["age"]               # delete a key
+print("   After deleting 'age':", student)
+
+# i. Type casting between int, float and str
+number_str = "10"
+number_int = int(number_str)
+number_float = float(number_int)
+back_to_str = str(number_float)
+print("i. str -> int:", number_int, type(number_int))
+print("   int -> float:", number_float, type(number_float))
+print("   float -> str:", back_to_str, type(back_to_str))
