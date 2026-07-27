@@ -1,9 +1,4 @@
-"""
-task8_net_salary_calculator.py
 
-Name: Shem Moses
-Registration No: T006/303998/2024
-Institution: The Cooperative University of Kenya (CUK)
 
 Task 8: Net-Salary Calculator Program
 """
