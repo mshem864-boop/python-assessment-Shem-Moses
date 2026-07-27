@@ -1,9 +1,4 @@
-"""
-task7_numpy_pandas_matplotlib.py
 
-Name: Shem Moses
-Registration No: T006/303998/2024
-Institution: The Cooperative University of Kenya (CUK)
 
 Task 7: Scientific Modules - NumPy, Pandas & Matplotlib
 
