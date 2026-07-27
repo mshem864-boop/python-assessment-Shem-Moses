@@ -1,9 +1,4 @@
-"""
-task4_control_structures.py
 
-Name: Shem Moses
-Registration No: T006/303998/2024
-Institution: The Cooperative University of Kenya (CUK)
 
 Task 4: Control Structures - Selection & Looping
 """
