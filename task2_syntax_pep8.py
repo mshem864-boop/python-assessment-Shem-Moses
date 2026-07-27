@@ -1,9 +1,4 @@
-"""
-task2_syntax_pep8.py
 
-Name: Shem Moses
-Registration No: T006/303998/2024
-Institution: The Cooperative University of Kenya (CUK)
 
 Task 2: Python Syntax, Zen of Python & PEP 8
 
