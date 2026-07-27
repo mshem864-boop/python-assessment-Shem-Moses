@@ -1,9 +1,4 @@
-"""
-task10_ml_knn_naive_bayes.py
 
-Name: Shem Moses
-Registration No: T006/303998/2024
-Institution: The Cooperative University of Kenya (CUK)
 
 Task 10: Machine Learning with Scikit-Learn - KNN & Naive Bayes
 
