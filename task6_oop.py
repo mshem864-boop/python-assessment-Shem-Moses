@@ -1,9 +1,4 @@
-"""
-task6_oop.py
 
-Name: Shem Moses
-Registration No: T006/303998/2024
-Institution: The Cooperative University of Kenya (CUK)
 
 Task 6: Object-Oriented Python
 """
