@@ -1,9 +1,4 @@
-"""
-task5_functions.py
 
-Name: Shem Moses
-Registration No: T006/303998/2024
-Institution: The Cooperative University of Kenya (CUK)
 
 Task 5: Functions in Python
 """
