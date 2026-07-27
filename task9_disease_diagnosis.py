@@ -1,9 +1,4 @@
-"""
-task9_disease_diagnosis.py
 
-Name: Shem Moses
-Registration No: T006/303998/2024
-Institution: The Cooperative University of Kenya (CUK)
 
 Task 9: Disease Diagnosis Program
 """
